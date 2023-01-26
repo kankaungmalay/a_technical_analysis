@@ -10,6 +10,11 @@
 
 ### Predictive Analytics (TimeSeries)
 <hr />
+<p align="center">
+  <img src="flowchart.png" width="200" title="Time Series Analysis">
+  <br/>
+    <i><span style="font-family:Papyrus; font-size:0.7em;">Photo credits to the original uploader.</span></i>
+</p>
 
 #### ARIMA
 - [ARIMA model, AirPassengers dataset](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/time_series_forecasting_%5BM%5DARIMA_%5BD%5Dairpassengers.ipynb)
@@ -27,3 +32,4 @@
 ### Deep Learning
 <hr />
 
+- [LSTM(RNN), AirPassengers](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/deep_learning/DL_time_series_forecasting_%5BM%5DLSTM_%5BD%5Dairpassengers.ipynb)
