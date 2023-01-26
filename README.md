@@ -23,3 +23,7 @@
 - [SARIMA model, Co2](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/time_series_forecasting_%5BM%5DSARIMA_%5BD%5Dco2%20.ipynb)
 
 - [SARIMA model, Sunspots](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/time_series_forecasting_%5BM%5DSARIMA_%5BD%5Dsunspots.ipynb)
+
+### Deep Learning
+<hr />
+
