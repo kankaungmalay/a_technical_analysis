@@ -1,19 +1,14 @@
 # A technical data analysis.
 
-
-### Repo Structure
-- dataset - all the datasets are included. 
-- scripts - all the project scripts included.
-
 ### Dataset Links
 - [Air Passengers](https://www.kaggle.com/rakannimer/air-passengers) 
 
 ### Predictive Analytics (TimeSeries)
 <hr />
 <p align="center">
-  <img src="flowchart.png" width="200" title="Time Series Analysis">
+  <img src="flowchart.png" width="300" title="Time Series Analysis">
   <br/>
-    <i><span style="font-family:Papyrus; font-size:0.7em;">Photo credits to the original uploader.</span></i>
+    <i><span style="font-family:Papyrus; font-size:0.5em;">Photo credits to the original uploader.</span></i>
 </p>
 
 #### ARIMA
