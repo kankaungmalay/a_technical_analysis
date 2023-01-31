@@ -8,7 +8,7 @@
 <p align="center">
   <img src="flowchart.png" width="300" title="Time Series Analysis">
   <br/>
-    <i><span style="font-family:Papyrus; font-size:0.5em;">Photo credits to the original uploader.</span></i>
+    <i><font size="1">Photo credits to the original uploader.</font></i>
 </p>
 
 #### ARIMA
