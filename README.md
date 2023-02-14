@@ -11,6 +11,9 @@
     <i>*</i>
 </p>
 
+<details>
+<summary>Univariate</summary>
+
 #### ARIMA
 - [ARIMA model, AirPassengers dataset](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/univariate/time_series_forecasting_%5BM%5DARIMA_%5BD%5Dairpassengers.ipynb)
 
@@ -23,6 +26,15 @@
 - [SARIMA model, Co2](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/univariate/time_series_forecasting_%5BM%5DSARIMA_%5BD%5Dco2%20.ipynb)
 
 - [SARIMA model, Sunspots](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/univariate/time_series_forecasting_%5BM%5DSARIMA_%5BD%5Dsunspots.ipynb)
+
+</details>
+
+<details>
+<summary>Multivariate</summary>
+
+- [LSTM, Beijing PM2.5 Dataset](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/predictive_analytics/multivariate/time_series_forecasting_multivariate_%5BM%5DLSTM.ipynb)
+
+</details>
 
 ### Deep Learning
 <hr />
