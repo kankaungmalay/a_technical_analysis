@@ -41,5 +41,10 @@
 
 - [LSTM(RNN), AirPassengers](https://github.com/kankaungmalay/a_technical_analysis/blob/main/scripts/deep_learning/DL_time_series_forecasting_%5BM%5DLSTM_%5BD%5Dairpassengers.ipynb)
 
+### Bayesian Statistics: Time Series Analysis
+<hr />
 
-<font size="1">* Photo credits to the original uploader.</font>
+TBC
+
+
+<font size="0.5">* Photo credits to the original uploader.</font>
